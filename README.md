@@ -4,13 +4,10 @@
 
 ### 💡 Sobre Mim
 
-Sou estudante de Análise e Desenvolvimento de Sistemas com uma paixão por qualidade de software. Estou em uma jornada de aprendizado para me tornar um Engenheiro de QA e garantir que aplicações funcionem perfeitamente!
+Sou estudante de Análise e Desenvolvimento de Sistemas. 
+Estou em uma jornada de aprendizado para me tornar um Engenheiro de QA e garantir que aplicações funcionem perfeitamente!
 
-**O que me motiva:**
-- 🐛 Encontrar e reportar bugs (sim, eu gosto disso!)
-- 🎯 Garantir a melhor experiência para os usuários
-- 📚 Aprender coisas novas todos os dias
-- 🤝 Trabalhar em equipe para criar produtos incríveis
+
 
 ### 🛠️ Tecnologias que Estou Estudando
 
@@ -29,23 +26,14 @@ Sou estudante de Análise e Desenvolvimento de Sistemas com uma paixão por qual
 | [☕ **java-qa**]() | Automação de testes com Java | 🚧 *Em breve* |
 | [📊 **sql-qa**]() | SQL para validação de dados | 🚧 *Em breve* |
 
-### 🎓 O Que Estou Aprendendo Agora
 
-- ✅ Fundamentos de teste de software
-- ✅ Como escrever bons casos de teste
-- 🚧 Automação com Selenium WebDriver
-- 🚧 Testes de API com Postman
-- 💭 Práticas de QA em metodologias ágeis
 
-### 📊 Minha Evolução no GitHub
-
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=radical&hide_title=true)
 
 ### 📫 Vamos Conversar?
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-linkedin)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu.email@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://https://www.linkedin.com/in/joaocmr/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contatojoaocmr@gmail.com)
 
 ---
+*A qualidade não surgirá no final do projeto se não estiver presente desde o primeiro commit.*  
 
-⭐ *"A qualidade nunca é um acidente; é sempre o resultado de um esforço inteligente." - John Ruskin*
