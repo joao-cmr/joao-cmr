@@ -1,8 +1,8 @@
-# 👋 Olá, me chamo João Carlos!
+#  Olá, me chamo João Carlos!
 
-## 🎯 Futuro Engenheiro de Qualidade (QA)
+## Futuro Engenheiro de Qualidade (QA)
 
-### 💡 Sobre Mim
+### Sobre Mim
 
 Sou estudante de Análise e Desenvolvimento de Sistemas. 
 Estou em uma jornada de aprendizado para me tornar um Engenheiro de QA e garantir que aplicações funcionem perfeitamente!
@@ -16,15 +16,6 @@ Estou em uma jornada de aprendizado para me tornar um Engenheiro de QA e garanti
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-%2300f.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-%2343B02A.svg?style=for-the-badge&logo=selenium&logoColor=white)
-
-### 📚 Meus Projetos de Estudo
-
-| Projeto | Descrição | Status |
-|---------|-----------|--------|
-| [📝 **markdown-qa**]() | Documentação e anotações de estudos | 🚧 *Planejando* |
-| [🌐 **html-qa**]() | Práticas com HTML para testes | 🚧 *Em breve* |
-| [☕ **java-qa**]() | Automação de testes com Java | 🚧 *Em breve* |
-| [📊 **sql-qa**]() | SQL para validação de dados | 🚧 *Em breve* |
 
 
 
