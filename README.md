@@ -38,7 +38,7 @@ Estou em uma jornada de aprendizado contínuo, combinando desenvolvimento e test
 - 🎓 Cursando **Análise e Desenvolvimento de Sistemas**
 - 📖 Estudando **Selenium** e automação de testes
 - 🔨 Desenvolvendo projetos para aplicar conceitos de QA
-- 🎯 **Meta 2025:** Conquistar minha primeira oportunidade como QA Engineer
+
 
 ---
 
@@ -55,7 +55,7 @@ Estou em uma jornada de aprendizado contínuo, combinando desenvolvimento e test
 
 Estou sempre aberto para trocar ideias sobre desenvolvimento, qualidade de software e oportunidades de crescimento!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](seu-link-linkedin)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaocmr/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contatojoaocmr@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/joao-cmr)
 
