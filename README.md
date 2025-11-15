@@ -1,6 +1,6 @@
 # 👋 Olá, sou João Carlos!
 
-### Estudante de Análise e Desenvolvimento | Construindo minha jornada em Quality Assurance
+### "Estudante de Análise e Desenvolvimento de Sistemas | Foco em Quality Assurance
 
 ---
 
@@ -10,7 +10,6 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** apaixonado por criar
 
 Estou em uma jornada de aprendizado contínuo, combinando desenvolvimento e testes para criar soluções mais robustas e confiáveis.
 
-💡 **Minha filosofia:** *"A qualidade não surgirá no final do projeto se não estiver presente desde o primeiro commit."*
 
 ---
 
@@ -36,7 +35,7 @@ Estou em uma jornada de aprendizado contínuo, combinando desenvolvimento e test
 ## 📚 Atualmente
 
 - 🎓 Cursando **Análise e Desenvolvimento de Sistemas**
-- 📖 Estudando **Selenium** e automação de testes
+- 📖 Estudando **Selenium** e **Cypress**
 - 🔨 Desenvolvendo projetos para aplicar conceitos de QA
 
 
@@ -56,7 +55,7 @@ Estou em uma jornada de aprendizado contínuo, combinando desenvolvimento e test
 Estou sempre aberto para trocar ideias sobre desenvolvimento, qualidade de software e oportunidades de crescimento!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaocmr/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contatojoaocmr@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=contatojoaocmr@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/joao-cmr)
 
 ---
