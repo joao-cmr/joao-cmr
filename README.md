@@ -61,7 +61,8 @@ Estou sempre aberto para trocar ideias sobre desenvolvimento, qualidade de softw
 ---
 
  <div align="center">
- **"O planejamento não diz respeito a decisões
+  
+ ## **"O planejamento não diz respeito a decisões
  futuras, mas às implicações futuras de
  decisões presentes."**
  PETER DRUCKER
