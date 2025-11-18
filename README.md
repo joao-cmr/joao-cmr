@@ -62,8 +62,8 @@ Estou sempre aberto para trocar ideias sobre desenvolvimento, qualidade de softw
 
 <div align="center">
   
-### 💭 *"Quality is not an act, it is a habit."* - Aristotle
-
-**Construindo o hábito da qualidade, um commit por vez.** ✨
-
+### 💭 **“O planejamento não diz respeito a decisões
+futuras, mas às implicações futuras de
+decisões presentes.”
+PETER DRUCKER**
 </div>
