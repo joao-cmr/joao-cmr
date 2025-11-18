@@ -59,11 +59,10 @@ Estou sempre aberto para trocar ideias sobre desenvolvimento, qualidade de softw
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/joao-cmr)
 
 ---
-
- <div align="center">
-  
- ## **"O planejamento não diz respeito a decisões
- futuras, mas às implicações futuras de
- decisões presentes."**
- PETER DRUCKER
- </div>
+<div align="center">
+  
+***“O planejamento não diz respeito a decisões futuras, mas às implicações futuras de decisões presentes.”***
+ 
+— **Peter Drucker**
+ 
+</div>
