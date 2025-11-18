@@ -60,10 +60,9 @@ Estou sempre aberto para trocar ideias sobre desenvolvimento, qualidade de softw
 
 ---
 
-<div align="center">
-  
-### 💭 **“O planejamento não diz respeito a decisões
-futuras, mas às implicações futuras de
-decisões presentes.”
-PETER DRUCKER**
-</div>
+65: <div align="center">
+66: **"O planejamento não diz respeito a decisões
+67: futuras, mas às implicações futuras de
+68: decisões presentes."**
+69: PETER DRUCKER
+70: </div>
