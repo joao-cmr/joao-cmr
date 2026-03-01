@@ -54,7 +54,7 @@ Meu objetivo é evoluir de forma consistente, unindo práticas de testes, boas e
 
 Estou aberto para trocar ideias sobre desenvolvimento, qualidade de software e oportunidades de crescimento!
 
-<a href="https://www.linkedin.com/in/joaocmr/ target="_blank">
+<a href="https://www.linkedin.com/in/joaocmr/">
   <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn"/>
 </a>
 <a href="mailto:contatojoaocmr@gmail.com">
