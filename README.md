@@ -20,16 +20,16 @@ Meu objetivo é evoluir de forma consistente, unindo práticas de testes, boas e
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/sql/sql.png" alt="SQL"/></code>
 
 ### 🧪 QA & Testes (em aprendizado)
-![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white)
-![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
-![Supertest](https://img.shields.io/badge/Supertest-000000?style=for-the-badge)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
-![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/vitest/vitest.png" alt="Vitest"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/pytest/pytest.png" alt="Pytest"/></code>
+<code><img height="32" src="https://avatars.githubusercontent.com/u/33984845?s=200&v=4" alt="Supertest"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/playwright/playwright.png" alt="Playwright"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/cypress/cypress.png" alt="Cypress"/></code>
 
 ### 🔧 Ferramentas
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" alt="Git"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/github/github.png" alt="GitHub"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/github-actions/github-actions.png" alt="GitHub Actions"/></code>
 
 ---
 
@@ -54,8 +54,12 @@ Meu objetivo é evoluir de forma consistente, unindo práticas de testes, boas e
 
 Estou aberto para trocar ideias sobre desenvolvimento, qualidade de software e oportunidades de crescimento!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaocmr/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=contatojoaocmr@gmail.com)
+<a href="https://www.linkedin.com/in/joaocmr/ target="_blank">
+  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn"/>
+</a>
+<a href="mailto:contatojoaocmr@gmail.com">
+  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Gmail"/>
+</a>
 
 
 ---
