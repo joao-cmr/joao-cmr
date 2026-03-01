@@ -26,10 +26,7 @@ Meu objetivo é evoluir de forma consistente, unindo práticas de testes, boas e
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/playwright/playwright.png" alt="Playwright"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/cypress/cypress.png" alt="Cypress"/></code>
 
-### 🔧 Ferramentas
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" alt="Git"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/github/github.png" alt="GitHub"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/github-actions/github-actions.png" alt="GitHub Actions"/></code>
+
 
 ---
 
@@ -41,22 +38,15 @@ Meu objetivo é evoluir de forma consistente, unindo práticas de testes, boas e
 
 ---
 
-## 🎯 Próximos Passos
-
-- [ ] Construir portfólio de testes automatizados
-- [ ] Contribuir com projetos open source focados em qualidade
-- [ ] Obter certificação em testes de software
-- [ ] Criar conteúdo sobre QA e boas práticas de testes
-
----
 
 ## 📫 Vamos Conversar?
 
 Estou aberto para trocar ideias sobre desenvolvimento, qualidade de software e oportunidades de crescimento!
 
-<a href="https://www.linkedin.com/in/joaocmr/">
+<a href="https://www.linkedin.com/in/joaocmr">
   <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn"/>
 </a>
+
 <a href="mailto:contatojoaocmr@gmail.com">
   <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Gmail"/>
 </a>
