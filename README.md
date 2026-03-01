@@ -6,7 +6,7 @@
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaocmr)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:contatojoaocmr@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&to=contatojoaocmr@gmail.com)
 
 </div>
 
@@ -14,7 +14,7 @@
 
 ## Sobre Mim
 
-Sou estudante de Análise e Desenvolvimento de Sistemas com foco em **Quality Assurance**. Venho construindo uma base sólida em testes de software e automação, buscando entender todo o ciclo de qualidade dentro de times de desenvolvimento.
+Sou estudante de Análise e Desenvolvimento de Sistemas com foco em **Quality Assurance**. Venho construindo uma base sólida em testes de software e automação, buscando entender todo o ciclo de qualidade dentro do time de desenvolvimento.
 
 Meu objetivo é evoluir de forma consistente — unindo práticas de testes, boas estruturas de projeto e análise de qualidade para contribuir com soluções confiáveis e bem estruturadas.
 
