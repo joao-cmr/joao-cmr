@@ -1,8 +1,8 @@
 <div align="center">
 
-### João Carlos M Rodrigues
+# oão Carlos M Rodrigues
 
-# QA Automation Engineer Júnior
+### QA Automation Engineer Júnior
 Analista de Qualidade de Software focado no ecossistema JavaScript e TypeScript. Atualmente cursando Análise e Desenvolvimento de Sistemas na Faculdade Impacta e aprimorando conhecimentos em DevOps e CI/CD.
 
 <br/>
@@ -14,13 +14,6 @@ Analista de Qualidade de Software focado no ecossistema JavaScript e TypeScript.
 
 ---
 
-## Sobre Mim
-
-Sou estudante de Análise e Desenvolvimento de Sistemas com foco em **Quality Assurance**. Venho construindo uma base sólida em testes de software e automação, buscando entender todo o ciclo de qualidade dentro do time de desenvolvimento.
-
-Meu objetivo é evoluir de forma consistente — unindo práticas de testes, boas estruturas de projeto e análise de qualidade para contribuir com soluções confiáveis e bem estruturadas.
-
----
 
 ## Stack Técnica
 
@@ -28,8 +21,6 @@ Meu objetivo é evoluir de forma consistente — unindo práticas de testes, boa
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 
 **QA & Testes** *(em aprendizado)*
@@ -44,7 +35,6 @@ Meu objetivo é evoluir de forma consistente — unindo práticas de testes, boa
 
 ## Atualmente
 
-- 🎓 Cursando **Análise e Desenvolvimento de Sistemas**
 - 🔨 Desenvolvendo projetos para aplicar conceitos de QA na prática
 
 ---
