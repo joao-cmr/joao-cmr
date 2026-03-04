@@ -1,7 +1,9 @@
 <div align="center">
 
-# João Carlos
-### Estudante de ADS · Aspirante a QA Engineer
+### João Carlos M Rodrigues
+
+# QA Automation Engineer Júnior
+Analista de Qualidade de Software focado no ecossistema JavaScript e TypeScript. Atualmente cursando Análise e Desenvolvimento de Sistemas na Faculdade Impacta e aprimorando conhecimentos em DevOps e CI/CD.
 
 <br/>
 
