@@ -2,10 +2,8 @@
 
 # João Carlos M Rodrigues
 
-### QA Automation Engineer Júnior
-Analista de Qualidade de Software focado no ecossistema JavaScript e TypeScript. Atualmente cursando Análise e Desenvolvimento de Sistemas na Faculdade Impacta e aprimorando conhecimentos em DevOps e CI/CD.
-
-<br/>
+### QA Engineer Júnior | Test Automation 
+**Focado em Automação Web e API com JavaScript e TypeScript**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaocmr)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&to=contatojoaocmr@gmail.com)
@@ -14,34 +12,59 @@ Analista de Qualidade de Software focado no ecossistema JavaScript e TypeScript.
 
 ---
 
-
-## Stack Técnica
-
-**Linguagens**
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-
-**QA & Testes** 
-
-![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat&logo=vitest&logoColor=white)
-![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=flat&logo=pytest&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=playwright&logoColor=white)
-![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat&logo=cypress&logoColor=white)
-![Supertest](https://img.shields.io/badge/Supertest-333333?style=flat&logo=node.js&logoColor=white)
+## 👨‍💻 Sobre Mim
+Estudante de **Análise e Desenvolvimento de Sistemas** na Faculdade Impacta. Atuo na garantia da qualidade de software através da automação de testes, com foco na criação de suítes de testes eficientes e escaláveis. Aplico metodologias ágeis e práticas de BDD para alinhar a qualidade técnica aos objetivos de negócio.
 
 ---
 
-## Atualmente
+## 🛠️ Stack Técnica
 
-- 🔨 Desenvolvendo projetos para aplicar conceitos de QA na prática
+**Linguagens e Banco de Dados**
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JS" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TS" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white" alt="SQL" />
+</p>
+
+**QA & Automação**
+<p>
+  <img src="https://img.shields.io/badge/Cypress-17202C?style=flat&logo=cypress&logoColor=white" alt="Cypress" />
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=playwright&logoColor=white" alt="Playwright" />
+  <img src="https://img.shields.io/badge/Supertest-333333?style=flat&logo=node.js&logoColor=white" alt="Supertest" />
+  <img src="https://img.shields.io/badge/Vitest-6E9F18?style=flat&logo=vitest&logoColor=white" alt="Vitest" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" alt="Postman" />
+</p>
+
+**DevOps & Ferramentas**
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white" alt="GH Actions" />
+</p>
+
+---
+
+## 🚀 Projetos em Destaque
+
+### [Nome do seu Principal Repositório]
+*Automação E2E com Playwright e TypeScript*
+- Implementação de **Page Object Model (POM)**.
+- Validação de fluxos críticos de Login e Cadastro.
+- Execução automatizada via **GitHub Actions**.
+- [Ver Repositório ↗️](link-do-seu-repo)
+
+> 💡 **Dica:** Como você tem poucos projetos, foque em descrever bem o que cada um faz tecnicamente.
+
+---
+
+## 📈 Atualmente
+- 🎓 Cursando Análise e Desenvolvimento de Sistemas (Impacta).
+- 🧪 Desenvolvendo portfólio focado em **Testes de API** e **Contrato**.
+- 🌍 Estudando Inglês Técnico para documentação e colaboração global.
 
 ---
 
 <div align="center">
 
-*"O planejamento não diz respeito a decisões futuras, mas às implicações futuras de decisões presentes."*
-<br/>— **Peter Drucker**
+*"O planejamento não diz respeito a decisões futuras, mas às implicações futuras de decisões presentes."* — **Peter Drucker**
 
 </div>
