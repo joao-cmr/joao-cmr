@@ -45,14 +45,13 @@ Estudante de **Análise e Desenvolvimento de Sistemas** na Faculdade Impacta. At
 
 ## 🚀 Projetos em Destaque
 
-### [Nome do seu Principal Repositório]
-*Automação E2E com Playwright e TypeScript*
+### qa-commerce-teste
+*Automação E2E com Cypress e Javascript*
 - Implementação de **Page Object Model (POM)**.
 - Validação de fluxos críticos de Login e Cadastro.
 - Execução automatizada via **GitHub Actions**.
-- [Ver Repositório ↗️](link-do-seu-repo)
+- [qa-commerce-teste](https://github.com/joao-cmr/qa-commerce-teste)
 
-> 💡 **Dica:** Como você tem poucos projetos, foque em descrever bem o que cada um faz tecnicamente.
 
 ---
 
