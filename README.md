@@ -12,7 +12,7 @@
 
 ---
 
-## 👨‍💻 Sobre Mim
+##  Sobre Mim
 Estudante de **Análise e Desenvolvimento de Sistemas** na Faculdade Impacta. Atuo na garantia da qualidade de software através da automação de testes, com foco na criação de suítes de testes eficientes e escaláveis. Aplico metodologias ágeis e práticas de BDD para alinhar a qualidade técnica aos objetivos de negócio.
 
 ---
@@ -23,6 +23,7 @@ Estudante de **Análise e Desenvolvimento de Sistemas** na Faculdade Impacta. At
 <p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JS" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TS" />
+   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white" alt="SQL" />
 </p>
 
