@@ -1,17 +1,17 @@
 <div align="center">
  
 <!-- Banner Animado -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=2EAD33&center=true&vCenter=true&width=600&lines=Jo%C3%A3o+Carlos+M+Rodrigues;QA+Engineer+J%C3%BAnior;Test+Automation+Specialist;Always+Testing%2C+Always+Learning" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=2EAD33&center=true&vCenter=true&width=600&lines=Jo%C3%A3o+Carlos+M+Rodrigues;QA+Engineer;Test+Automation;Always+Testing%2C+Always+Learning" alt="Typing SVG" />
  
 ---
  
-### 🎯 Focado em Automação Web e API com JavaScript e TypeScript
+###  Focado em Automação Web e API com JavaScript e TypeScript
  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaocmr)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=contatojoaocmr@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/joao-cmr)
  
-![Profile Views](https://komarev.com/ghpvc/?username=joao-cmr&color=2EAD33&style=flat-square)
+
  
 </div>
  
