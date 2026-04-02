@@ -19,14 +19,14 @@
  
 ## João Carlos | QA Engineer Júnior
 
-Atuo no desenvolvimento de estratégias de testes automatizados para garantir a entrega de softwares robustos e livres de falhas. Atualmente, foco em automação E2E e de APIs utilizando o ecossistema JavaScript (Cypress, Playwright e TypeScript), aplicando metodologias ágeis e práticas de Shift-Left Testing para antecipar a qualidade no ciclo de desenvolvimento. 
+Atuo no desenvolvimento de estratégias de testes automatizados para garantir a entrega de softwares robustos e livres de falhas. Atualmente, foco em automação E2E e de APIs utilizando o ecossistema JavaScript (Cypress), aplicando metodologias ágeis e práticas de Shift-Left Testing para antecipar a qualidade no ciclo de desenvolvimento. 
  
 
  
 ```javascript
 const joao = {
-  code: ["JavaScript", "TypeScript", "Python", "SQL"],
-  tools: ["Cypress", "Playwright", "Postman", "Git"],
+  code: ["JavaScript", "Python", "SQL"],
+  tools: ["Cypress", "Postman", "Supertest", "K6", "Git"],
   architecture: ["Custom Commands", "App Actions", "Modular Architecture"],
   currentFocus: "Testes de API e Contrato",
   challenge: "Contribuir para produtos de qualidade desde o início"
@@ -40,7 +40,6 @@ const joao = {
 ### Linguagens & Banco de Dados
  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -48,11 +47,10 @@ const joao = {
 ###  QA & Automação
  
 ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
-![Supertest](https://img.shields.io/badge/Supertest-07BA82?style=for-the-badge&logo=node.js&logoColor=white)
-![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
- 
+![Supertest](https://img.shields.io/badge/Supertest-07BA82?style=for-the-badge&logo=node.js&logoColor=white)
+![k6](https://img.shields.io/badge/k6-7D64FF?style=for-the-badge&logo=k6&logoColor=white)
+
 ### DevOps & Ferramentas
  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
