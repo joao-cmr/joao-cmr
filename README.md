@@ -19,17 +19,18 @@
  
 ## João Carlos | QA Engineer Júnior
 
-Atuo no desenvolvimento de estratégias de testes automatizados para garantir a entrega de softwares robustos e livres de falhas. Atualmente, foco em automação E2E e de APIs utilizando o ecossistema JavaScript (Cypress), aplicando metodologias ágeis e práticas de Shift-Left Testing para antecipar a qualidade no ciclo de desenvolvimento. 
- 
+
+Atuo no desenvolvimento de estratégias de qualidade e automação de testes para aumentar a confiabilidade de aplicações web e APIs, com foco na prevenção de falhas em fluxos críticos e na redução de riscos desde as fases iniciais do ciclo de desenvolvimento. Minha abordagem combina automação E2E e de APIs com análise antecipada de requisitos, critérios de aceite, riscos de regressão e impacto de mudanças, aplicando práticas de Shift-Left Testing e Early Testing para construir qualidade desde a origem.
 
  
 ```javascript
 const joao = {
+  qualityMindset: ["Risk-Based Testing", "Shift-Left", "Early Testing", "Impact Analysis", "Regression Prevention"],
   code: ["JavaScript", "Python", "SQL"],
-  tools: ["Cypress", "Postman", "Supertest", "K6", "Git"],
+  tools: ["Cypress", "Postman", "Supertest", "k6", "Git"],
   architecture: ["Custom Commands", "App Actions", "Modular Architecture"],
-  currentFocus: "Testes de API e Contrato",
-  challenge: "Contribuir para produtos de qualidade desde o início"
+  currentFocus: ["API Testing and Contract Testing"],
+  challenge: "Contribuir para produtos de qualidade desde os requisitos até a produção"
 };
 ```
  
@@ -66,6 +67,7 @@ const joao = {
 -  Cursando **Análise e Desenvolvimento de Sistemas** (Faculdade Impacta)
 -  Desenvolvendo portfólio focado em **Testes de API** e **Contrato**
 -  Estudando **Inglês**
+-  Aplicando **análise orientada a risco** em projetos de portfólio
 -  Aprofundando conhecimentos em **Test Design Patterns**
 -  Explorando **AI para QA** (otimização de workflows com LLMs)
  
@@ -99,14 +101,15 @@ graph LR
 ## Competências QA
  
 
- 
-| Categoria | Habilidades |
-|-----------|-------------|
-| **Test Design** | BDD, TDD, Análise de Requisitos |
-| **Automação** | E2E, Integração, Unitário, API |
-| **Metodologias** | Scrum, Kanban, Agile Testing |
-| **Documentação** | Test Cases, Bug Reports, Test Plans |
-| **Ferramentas** | DevTools, Postman, Insomnia, Git |
+
+| Categoria                   | Habilidades                                                       |
+| --------------------------- | ----------------------------------------------------------------- |
+| **Estratégia de Qualidade** | Shift-Left, Early Testing, Risk-Based Testing, Análise de Impacto |
+| **Test Design**             | BDD, TDD, Análise de Requisitos, Critérios de Aceite              |
+| **Automação**               | E2E, API, Integração, Contrato                                    |
+| **Qualidade de Processo**   | Prevenção de Regressão, RCA, Testabilidade                        |
+| **Metodologias**            | Scrum, Kanban, Agile Testing                                      |
+
 
  
 
@@ -118,11 +121,12 @@ graph LR
 </div>
  
 **Meus Princípios:**
--  **Shift-Left Testing** - Qualidade desde o início
--  **Automação Inteligente** - Automatizar o que faz sentido
--  **Data-Driven** - Decisões baseadas em métricas
--  **Colaboração** - Qualidade é responsabilidade de todos
--  **Melhoria Contínua** - Sempre evoluindo
+- **Quality by Design** - qualidade construída desde requisitos e arquitetura
+- **Shift-Left & Early Testing** - antecipação inteligente da qualidade
+- **Risk-Based Testing** - priorização por impacto no usuário e no negócio
+- **Automação Inteligente** - automatizar o que reduz risco e gera valor
+- **Colaboração** - qualidade como responsabilidade compartilhada
+- **Melhoria Contínua** - aprendizado orientado por causa-raiz
  
 ---
  
