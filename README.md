@@ -30,7 +30,7 @@ const joao = {
   tools: ["Cypress", "Postman", "Supertest", "k6", "Git"],
   architecture: ["Custom Commands", "App Actions", "Modular Architecture"],
   currentFocus: ["API Testing and Contract Testing"],
-  challenge: "Contribuir para produtos de qualidade desde os requisitos até a produção"
+  challenge: ["Contribuir para produtos de qualidade desde os requisitos até a produção"],
 };
 ```
  
