@@ -26,7 +26,7 @@ Atuo no desenvolvimento de estratégias de qualidade e automação de testes par
 ```javascript
 const joao = {
   qualityMindset: ["Risk-Based Testing", "Shift-Left", "Early Testing", "Impact Analysis", "Regression Prevention"],
-  code: ["JavaScript", "Python", "SQL"],
+  code: ["JavaScript", "TypeScript", "Python", "SQL"],
   tools: ["Cypress", "Postman", "Supertest", "k6", "Git"],
   architecture: ["Custom Commands", "App Actions", "Modular Architecture"],
   currentFocus: ["API Testing and Contract Testing"],
